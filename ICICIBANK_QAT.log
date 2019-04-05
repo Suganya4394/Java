@@ -1,0 +1,589 @@
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - Bank name from config fileICICI BANK LTD
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - Bank Name from config file ICICI BANK LTD
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - Manual bank name Retrieved
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - INSIDE AUTOMATIC PROCESS
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - Started Login details retrieval 
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - Before connection amcQAT - Union KBC Fund
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - After connection AmcCodeSelectedTUKQ
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - After connection AmcCodeITZP
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - After connection AmcNameZ - Password Static Test
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - After connection AmcSelectedQAT - Union KBC Fund
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - After connection amcQAT - Union KBC Fund
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - Before Alter SchemaSelectedITUKQAT
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - After Alter SchemaSelectedITUKQAT
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - After connection AmcCodeSelectedTUKQ
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - After connection AmcCodeITZP
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - After connection AmcNameZ - Password Static Test
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - After connection AmcSelectedQAT - Union KBC Fund
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - Login details retrieved successfully
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - Ended Login details retrieved
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-10-26 16:24:59 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-10-26 16:25:00 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@487db668
+INFO  | 2018-10-26 16:25:00 | [main] utils.Log (Log.java:50) - Login credentials520
+ERROR | 2018-10-26 16:25:00 | [main] utils.Log (Log.java:62) - The Output path directory is available in the system
+INFO  | 2018-10-26 16:25:05 | [main] utils.Log (Log.java:50) - The browser:CHROME launched successfully
+INFO  | 2018-10-26 16:25:05 | [main] utils.Log (Log.java:50) - Started entering Corporate ID
+INFO  | 2018-10-26 16:25:06 | [main] utils.Log (Log.java:50) - Corporate ID entered Successfully
+INFO  | 2018-10-26 16:25:06 | [main] utils.Log (Log.java:50) - Ended entering Corporate ID
+INFO  | 2018-10-26 16:25:06 | [main] utils.Log (Log.java:50) - Started entering User ID
+INFO  | 2018-10-26 16:25:06 | [main] utils.Log (Log.java:50) - UserName entered Successfully
+INFO  | 2018-10-26 16:25:06 | [main] utils.Log (Log.java:50) - Ended entering User ID
+INFO  | 2018-10-26 16:25:06 | [main] utils.Log (Log.java:50) - Started entering Password
+INFO  | 2018-10-26 16:25:07 | [main] utils.Log (Log.java:50) - Password entered Successfully
+INFO  | 2018-10-26 16:25:07 | [main] utils.Log (Log.java:50) - Ended entering Password
+INFO  | 2018-10-26 16:25:07 | [main] utils.Log (Log.java:50) - Started click login
+INFO  | 2018-10-26 16:25:17 | [main] utils.Log (Log.java:50) - Logged in Successfully
+INFO  | 2018-10-26 16:25:17 | [main] utils.Log (Log.java:50) - Ended click login
+INFO  | 2018-10-26 16:25:17 | [main] utils.Log (Log.java:50) - Started clickAccounts
+INFO  | 2018-10-26 16:25:18 | [main] utils.Log (Log.java:50) - Clicked clickAccounts successfully.
+INFO  | 2018-10-26 16:25:18 | [main] utils.Log (Log.java:50) - Ended clickAccounts
+INFO  | 2018-10-26 16:25:18 | [main] utils.Log (Log.java:50) - Started clickOperativeAccounts
+INFO  | 2018-10-26 16:25:26 | [main] utils.Log (Log.java:50) - Clicked clickOperativeAccounts successfully.
+INFO  | 2018-10-26 16:25:26 | [main] utils.Log (Log.java:50) - Ended clickOperativeAccounts
+INFO  | 2018-11-12 10:07:40 | [main] utils.Log (Log.java:50) - Bank name from config fileICICI BANK LTD
+INFO  | 2018-11-12 10:07:40 | [main] utils.Log (Log.java:50) - Bank Name from config file ICICI BANK LTD
+INFO  | 2018-11-12 10:07:40 | [main] utils.Log (Log.java:50) - Manual bank name Retrieved
+INFO  | 2018-11-12 10:07:40 | [main] utils.Log (Log.java:50) - INSIDE AUTOMATIC PROCESS
+INFO  | 2018-11-12 10:07:40 | [main] utils.Log (Log.java:50) - Started Login details retrieval 
+INFO  | 2018-11-12 10:07:40 | [main] utils.Log (Log.java:50) - Before connection amcQAT - Union KBC Fund
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - After connection AmcCodeSelectedTUKQ
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - After connection AmcCodeITZP
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - After connection AmcNameZ - Password Static Test
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - After connection AmcSelectedQAT - Union KBC Fund
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - After connection amcQAT - Union KBC Fund
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - Before Alter SchemaSelectedITUKQAT
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - After Alter SchemaSelectedITUKQAT
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - After connection AmcCodeSelectedTUKQ
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - After connection AmcCodeITZP
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - After connection AmcNameZ - Password Static Test
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - After connection AmcSelectedQAT - Union KBC Fund
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - Login details retrieved successfully
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - Ended Login details retrieved
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@487db668
+INFO  | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:50) - Login credentials520
+ERROR | 2018-11-12 10:07:41 | [main] utils.Log (Log.java:62) - The Output path directory is available in the system
+INFO  | 2018-11-12 10:07:47 | [main] utils.Log (Log.java:50) - The browser:CHROME launched successfully
+INFO  | 2018-11-12 10:07:47 | [main] utils.Log (Log.java:50) - Started entering Corporate ID
+INFO  | 2018-11-12 10:07:47 | [main] utils.Log (Log.java:50) - Corporate ID entered Successfully
+INFO  | 2018-11-12 10:07:47 | [main] utils.Log (Log.java:50) - Ended entering Corporate ID
+INFO  | 2018-11-12 10:07:47 | [main] utils.Log (Log.java:50) - Started entering User ID
+INFO  | 2018-11-12 10:07:48 | [main] utils.Log (Log.java:50) - UserName entered Successfully
+INFO  | 2018-11-12 10:07:48 | [main] utils.Log (Log.java:50) - Ended entering User ID
+INFO  | 2018-11-12 10:07:48 | [main] utils.Log (Log.java:50) - Started entering Password
+INFO  | 2018-11-12 10:07:49 | [main] utils.Log (Log.java:50) - Password entered Successfully
+INFO  | 2018-11-12 10:07:49 | [main] utils.Log (Log.java:50) - Ended entering Password
+INFO  | 2018-11-12 10:07:49 | [main] utils.Log (Log.java:50) - Started click login
+INFO  | 2018-11-12 10:07:50 | [main] utils.Log (Log.java:50) - Logged in Successfully
+INFO  | 2018-11-12 10:07:50 | [main] utils.Log (Log.java:50) - Ended click login
+INFO  | 2018-11-12 10:07:53 | [main] utils.Log (Log.java:50) - Inside iteration update procedure
+ERROR | 2018-11-12 10:07:53 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@7692cd34
+ERROR | 2018-11-12 10:07:56 | [main] utils.Log (Log.java:62) - The Output path directory is available in the system
+INFO  | 2018-11-12 10:08:00 | [main] utils.Log (Log.java:50) - The browser:CHROME launched successfully
+INFO  | 2018-11-12 10:08:00 | [main] utils.Log (Log.java:50) - Started entering Corporate ID
+INFO  | 2018-11-12 10:08:01 | [main] utils.Log (Log.java:50) - Corporate ID entered Successfully
+INFO  | 2018-11-12 10:08:01 | [main] utils.Log (Log.java:50) - Ended entering Corporate ID
+INFO  | 2018-11-12 10:08:01 | [main] utils.Log (Log.java:50) - Started entering User ID
+INFO  | 2018-11-12 10:08:01 | [main] utils.Log (Log.java:50) - UserName entered Successfully
+INFO  | 2018-11-12 10:08:01 | [main] utils.Log (Log.java:50) - Ended entering User ID
+INFO  | 2018-11-12 10:08:01 | [main] utils.Log (Log.java:50) - Started entering Password
+INFO  | 2018-11-12 10:08:02 | [main] utils.Log (Log.java:50) - Password entered Successfully
+INFO  | 2018-11-12 10:08:02 | [main] utils.Log (Log.java:50) - Ended entering Password
+INFO  | 2018-11-12 10:08:02 | [main] utils.Log (Log.java:50) - Started click login
+INFO  | 2018-11-12 10:08:03 | [main] utils.Log (Log.java:50) - Logged in Successfully
+INFO  | 2018-11-12 10:08:03 | [main] utils.Log (Log.java:50) - Ended click login
+INFO  | 2018-11-12 10:08:05 | [main] utils.Log (Log.java:50) - Inside iteration update procedure
+ERROR | 2018-11-12 10:08:05 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@106faf11
+ERROR | 2018-11-12 10:08:08 | [main] utils.Log (Log.java:62) - The Output path directory is available in the system
+INFO  | 2018-11-12 10:08:13 | [main] utils.Log (Log.java:50) - The browser:CHROME launched successfully
+INFO  | 2018-11-12 10:08:13 | [main] utils.Log (Log.java:50) - Started entering Corporate ID
+INFO  | 2018-11-12 10:08:13 | [main] utils.Log (Log.java:50) - Corporate ID entered Successfully
+INFO  | 2018-11-12 10:08:13 | [main] utils.Log (Log.java:50) - Ended entering Corporate ID
+INFO  | 2018-11-12 10:08:13 | [main] utils.Log (Log.java:50) - Started entering User ID
+INFO  | 2018-11-12 10:08:14 | [main] utils.Log (Log.java:50) - UserName entered Successfully
+INFO  | 2018-11-12 10:08:14 | [main] utils.Log (Log.java:50) - Ended entering User ID
+INFO  | 2018-11-12 10:08:14 | [main] utils.Log (Log.java:50) - Started entering Password
+INFO  | 2018-11-12 10:08:14 | [main] utils.Log (Log.java:50) - Password entered Successfully
+INFO  | 2018-11-12 10:08:14 | [main] utils.Log (Log.java:50) - Ended entering Password
+INFO  | 2018-11-12 10:08:14 | [main] utils.Log (Log.java:50) - Started click login
+INFO  | 2018-11-12 10:08:25 | [main] utils.Log (Log.java:50) - Logged in Successfully
+INFO  | 2018-11-12 10:08:25 | [main] utils.Log (Log.java:50) - Ended click login
+INFO  | 2018-11-12 10:08:26 | [main] utils.Log (Log.java:50) - Started clickAccounts
+INFO  | 2018-11-12 10:08:27 | [main] utils.Log (Log.java:50) - Clicked clickAccounts successfully.
+INFO  | 2018-11-12 10:08:27 | [main] utils.Log (Log.java:50) - Ended clickAccounts
+INFO  | 2018-11-12 10:08:27 | [main] utils.Log (Log.java:50) - Started clickOperativeAccounts
+INFO  | 2018-11-12 10:08:32 | [main] utils.Log (Log.java:50) - Clicked clickOperativeAccounts successfully.
+INFO  | 2018-11-12 10:08:32 | [main] utils.Log (Log.java:50) - Ended clickOperativeAccounts
+INFO  | 2018-11-12 10:08:33 | [main] utils.Log (Log.java:50) - Started clickSearch
+INFO  | 2018-11-12 10:08:33 | [main] utils.Log (Log.java:50) - Clicked clickSearch successfully.
+INFO  | 2018-11-12 10:08:33 | [main] utils.Log (Log.java:50) - Ended clickSearch
+INFO  | 2018-11-12 10:08:33 | [main] utils.Log (Log.java:50) - SessionStartRunTime to fetch account details11-12-2018 10-07-40
+INFO  | 2018-11-12 10:08:36 | [main] utils.Log (Log.java:50) - Started enterAccountNo
+INFO  | 2018-11-12 10:08:37 | [main] utils.Log (Log.java:50) - Clicked enterAccountNo successfully.
+INFO  | 2018-11-12 10:08:37 | [main] utils.Log (Log.java:50) - Ended enterAccountNo
+INFO  | 2018-11-12 10:08:38 | [main] utils.Log (Log.java:50) - Started Additional search
+INFO  | 2018-11-12 10:08:40 | [main] utils.Log (Log.java:50) - Clicked Additional search successfully.
+INFO  | 2018-11-12 10:08:40 | [main] utils.Log (Log.java:50) - Ended Additional search
+INFO  | 2018-11-12 10:08:41 | [main] utils.Log (Log.java:50) - Started clickActions
+INFO  | 2018-11-12 10:08:41 | [main] utils.Log (Log.java:50) - Clicked clickActions successfully.
+INFO  | 2018-11-12 10:08:41 | [main] utils.Log (Log.java:50) - Ended clickActions
+INFO  | 2018-11-12 10:08:42 | [main] utils.Log (Log.java:50) - Started ViewTransactionHistory
+INFO  | 2018-11-12 10:08:42 | [main] utils.Log (Log.java:50) - Clicked ViewTransactionHistory successfully.
+INFO  | 2018-11-12 10:08:42 | [main] utils.Log (Log.java:50) - Ended ViewTransactionHistory
+INFO  | 2018-11-12 10:08:46 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:08:46 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:08:46 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:08:48 | [main] utils.Log (Log.java:50) - Fromdate clicked
+INFO  | 2018-11-12 10:08:50 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:08:50 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:08:50 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:08:53 | [main] utils.Log (Log.java:50) - Todate clicked
+INFO  | 2018-11-12 10:08:54 | [main] utils.Log (Log.java:50) - Started selecting credits and debits
+INFO  | 2018-11-12 10:08:54 | [main] utils.Log (Log.java:50) - selected credits and debits Successfully
+INFO  | 2018-11-12 10:08:54 | [main] utils.Log (Log.java:50) - Ended selecting credits and debits
+INFO  | 2018-11-12 10:08:55 | [main] utils.Log (Log.java:50) - Started clicking GetStatement 
+INFO  | 2018-11-12 10:08:55 | [main] utils.Log (Log.java:50) - Clicked GetStatement Successfully
+INFO  | 2018-11-12 10:08:55 | [main] utils.Log (Log.java:50) - Ended clicking GetStatement 
+INFO  | 2018-11-12 10:09:06 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-12 10:09:06 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:09:06 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATIC-insidepassAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:09:06 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-12 10:09:06 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@22ee2d0
+ERROR | 2018-11-12 10:09:06 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@3e792ce3
+INFO  | 2018-11-12 10:09:06 | [main] utils.Log (Log.java:50) - No transaction so screen captured successfully.
+INFO  | 2018-11-12 10:09:27 | [main] utils.Log (Log.java:50) - Started enterAccountNo
+INFO  | 2018-11-12 10:09:28 | [main] utils.Log (Log.java:50) - Clicked enterAccountNo successfully.
+INFO  | 2018-11-12 10:09:28 | [main] utils.Log (Log.java:50) - Ended enterAccountNo
+INFO  | 2018-11-12 10:09:29 | [main] utils.Log (Log.java:50) - Started Additional search
+INFO  | 2018-11-12 10:09:31 | [main] utils.Log (Log.java:50) - Clicked Additional search successfully.
+INFO  | 2018-11-12 10:09:31 | [main] utils.Log (Log.java:50) - Ended Additional search
+INFO  | 2018-11-12 10:09:32 | [main] utils.Log (Log.java:50) - Started clickActions
+INFO  | 2018-11-12 10:09:32 | [main] utils.Log (Log.java:50) - Clicked clickActions successfully.
+INFO  | 2018-11-12 10:09:32 | [main] utils.Log (Log.java:50) - Ended clickActions
+INFO  | 2018-11-12 10:09:32 | [main] utils.Log (Log.java:50) - Started ViewTransactionHistory
+INFO  | 2018-11-12 10:09:33 | [main] utils.Log (Log.java:50) - Clicked ViewTransactionHistory successfully.
+INFO  | 2018-11-12 10:09:33 | [main] utils.Log (Log.java:50) - Ended ViewTransactionHistory
+INFO  | 2018-11-12 10:09:36 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:09:36 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:09:36 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:09:39 | [main] utils.Log (Log.java:50) - Fromdate clicked
+INFO  | 2018-11-12 10:09:40 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:09:41 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:09:41 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:09:43 | [main] utils.Log (Log.java:50) - Todate clicked
+INFO  | 2018-11-12 10:09:45 | [main] utils.Log (Log.java:50) - Started selecting credits and debits
+INFO  | 2018-11-12 10:09:45 | [main] utils.Log (Log.java:50) - selected credits and debits Successfully
+INFO  | 2018-11-12 10:09:45 | [main] utils.Log (Log.java:50) - Ended selecting credits and debits
+INFO  | 2018-11-12 10:09:45 | [main] utils.Log (Log.java:50) - Started clicking GetStatement 
+INFO  | 2018-11-12 10:09:45 | [main] utils.Log (Log.java:50) - Clicked GetStatement Successfully
+INFO  | 2018-11-12 10:09:45 | [main] utils.Log (Log.java:50) - Ended clicking GetStatement 
+INFO  | 2018-11-12 10:09:56 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-12 10:09:56 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:09:56 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATIC-insidepassAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:09:56 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-12 10:09:56 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@26f143ed
+ERROR | 2018-11-12 10:09:56 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@78e16155
+INFO  | 2018-11-12 10:09:56 | [main] utils.Log (Log.java:50) - No transaction so screen captured successfully.
+INFO  | 2018-11-12 10:10:17 | [main] utils.Log (Log.java:50) - Started enterAccountNo
+INFO  | 2018-11-12 10:10:19 | [main] utils.Log (Log.java:50) - Clicked enterAccountNo successfully.
+INFO  | 2018-11-12 10:10:19 | [main] utils.Log (Log.java:50) - Ended enterAccountNo
+INFO  | 2018-11-12 10:10:19 | [main] utils.Log (Log.java:50) - Started Additional search
+INFO  | 2018-11-12 10:10:21 | [main] utils.Log (Log.java:50) - Clicked Additional search successfully.
+INFO  | 2018-11-12 10:10:21 | [main] utils.Log (Log.java:50) - Ended Additional search
+INFO  | 2018-11-12 10:10:22 | [main] utils.Log (Log.java:50) - Started clickActions
+INFO  | 2018-11-12 10:10:22 | [main] utils.Log (Log.java:50) - Clicked clickActions successfully.
+INFO  | 2018-11-12 10:10:22 | [main] utils.Log (Log.java:50) - Ended clickActions
+INFO  | 2018-11-12 10:10:22 | [main] utils.Log (Log.java:50) - Started ViewTransactionHistory
+INFO  | 2018-11-12 10:10:23 | [main] utils.Log (Log.java:50) - Clicked ViewTransactionHistory successfully.
+INFO  | 2018-11-12 10:10:23 | [main] utils.Log (Log.java:50) - Ended ViewTransactionHistory
+INFO  | 2018-11-12 10:10:26 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:10:26 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:10:26 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:10:29 | [main] utils.Log (Log.java:50) - Fromdate clicked
+INFO  | 2018-11-12 10:10:30 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:10:31 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:10:31 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:10:33 | [main] utils.Log (Log.java:50) - Todate clicked
+INFO  | 2018-11-12 10:10:34 | [main] utils.Log (Log.java:50) - Started selecting credits and debits
+INFO  | 2018-11-12 10:10:34 | [main] utils.Log (Log.java:50) - selected credits and debits Successfully
+INFO  | 2018-11-12 10:10:34 | [main] utils.Log (Log.java:50) - Ended selecting credits and debits
+INFO  | 2018-11-12 10:10:35 | [main] utils.Log (Log.java:50) - Started clicking GetStatement 
+INFO  | 2018-11-12 10:10:35 | [main] utils.Log (Log.java:50) - Clicked GetStatement Successfully
+INFO  | 2018-11-12 10:10:35 | [main] utils.Log (Log.java:50) - Ended clicking GetStatement 
+INFO  | 2018-11-12 10:10:46 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-12 10:10:46 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:10:46 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATIC-insidepassAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:10:46 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-12 10:10:46 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@1968a49c
+ERROR | 2018-11-12 10:10:46 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@19868320
+INFO  | 2018-11-12 10:10:46 | [main] utils.Log (Log.java:50) - No transaction so screen captured successfully.
+INFO  | 2018-11-12 10:11:07 | [main] utils.Log (Log.java:50) - Started enterAccountNo
+INFO  | 2018-11-12 10:11:09 | [main] utils.Log (Log.java:50) - Clicked enterAccountNo successfully.
+INFO  | 2018-11-12 10:11:09 | [main] utils.Log (Log.java:50) - Ended enterAccountNo
+INFO  | 2018-11-12 10:11:09 | [main] utils.Log (Log.java:50) - Started Additional search
+INFO  | 2018-11-12 10:11:11 | [main] utils.Log (Log.java:50) - Clicked Additional search successfully.
+INFO  | 2018-11-12 10:11:11 | [main] utils.Log (Log.java:50) - Ended Additional search
+INFO  | 2018-11-12 10:11:12 | [main] utils.Log (Log.java:50) - Started clickActions
+INFO  | 2018-11-12 10:11:12 | [main] utils.Log (Log.java:50) - Clicked clickActions successfully.
+INFO  | 2018-11-12 10:11:12 | [main] utils.Log (Log.java:50) - Ended clickActions
+INFO  | 2018-11-12 10:11:12 | [main] utils.Log (Log.java:50) - Started ViewTransactionHistory
+INFO  | 2018-11-12 10:11:13 | [main] utils.Log (Log.java:50) - Clicked ViewTransactionHistory successfully.
+INFO  | 2018-11-12 10:11:13 | [main] utils.Log (Log.java:50) - Ended ViewTransactionHistory
+INFO  | 2018-11-12 10:11:16 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:11:17 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:11:17 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:11:19 | [main] utils.Log (Log.java:50) - Fromdate clicked
+INFO  | 2018-11-12 10:11:20 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:11:21 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:11:21 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:11:23 | [main] utils.Log (Log.java:50) - Todate clicked
+INFO  | 2018-11-12 10:11:25 | [main] utils.Log (Log.java:50) - Started selecting credits and debits
+INFO  | 2018-11-12 10:11:25 | [main] utils.Log (Log.java:50) - selected credits and debits Successfully
+INFO  | 2018-11-12 10:11:25 | [main] utils.Log (Log.java:50) - Ended selecting credits and debits
+INFO  | 2018-11-12 10:11:25 | [main] utils.Log (Log.java:50) - Started clicking GetStatement 
+INFO  | 2018-11-12 10:11:25 | [main] utils.Log (Log.java:50) - Clicked GetStatement Successfully
+INFO  | 2018-11-12 10:11:25 | [main] utils.Log (Log.java:50) - Ended clicking GetStatement 
+INFO  | 2018-11-12 10:11:36 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-12 10:11:36 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:11:36 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATIC-insidepassAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:11:36 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-12 10:11:36 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@c20be82
+ERROR | 2018-11-12 10:11:36 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@3ef41c66
+INFO  | 2018-11-12 10:11:36 | [main] utils.Log (Log.java:50) - No transaction so screen captured successfully.
+INFO  | 2018-11-12 10:11:57 | [main] utils.Log (Log.java:50) - Started enterAccountNo
+INFO  | 2018-11-12 10:11:59 | [main] utils.Log (Log.java:50) - Clicked enterAccountNo successfully.
+INFO  | 2018-11-12 10:11:59 | [main] utils.Log (Log.java:50) - Ended enterAccountNo
+INFO  | 2018-11-12 10:11:59 | [main] utils.Log (Log.java:50) - Started Additional search
+INFO  | 2018-11-12 10:12:01 | [main] utils.Log (Log.java:50) - Clicked Additional search successfully.
+INFO  | 2018-11-12 10:12:01 | [main] utils.Log (Log.java:50) - Ended Additional search
+INFO  | 2018-11-12 10:12:02 | [main] utils.Log (Log.java:50) - Started clickActions
+INFO  | 2018-11-12 10:12:02 | [main] utils.Log (Log.java:50) - Clicked clickActions successfully.
+INFO  | 2018-11-12 10:12:02 | [main] utils.Log (Log.java:50) - Ended clickActions
+INFO  | 2018-11-12 10:12:02 | [main] utils.Log (Log.java:50) - Started ViewTransactionHistory
+INFO  | 2018-11-12 10:12:03 | [main] utils.Log (Log.java:50) - Clicked ViewTransactionHistory successfully.
+INFO  | 2018-11-12 10:12:03 | [main] utils.Log (Log.java:50) - Ended ViewTransactionHistory
+INFO  | 2018-11-12 10:12:06 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:12:07 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:12:07 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:12:09 | [main] utils.Log (Log.java:50) - Fromdate clicked
+INFO  | 2018-11-12 10:12:10 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:12:11 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:12:11 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:12:13 | [main] utils.Log (Log.java:50) - Todate clicked
+INFO  | 2018-11-12 10:12:15 | [main] utils.Log (Log.java:50) - Started selecting credits and debits
+INFO  | 2018-11-12 10:12:15 | [main] utils.Log (Log.java:50) - selected credits and debits Successfully
+INFO  | 2018-11-12 10:12:15 | [main] utils.Log (Log.java:50) - Ended selecting credits and debits
+INFO  | 2018-11-12 10:12:15 | [main] utils.Log (Log.java:50) - Started clicking GetStatement 
+INFO  | 2018-11-12 10:12:16 | [main] utils.Log (Log.java:50) - Clicked GetStatement Successfully
+INFO  | 2018-11-12 10:12:16 | [main] utils.Log (Log.java:50) - Ended clicking GetStatement 
+INFO  | 2018-11-12 10:12:33 | [main] utils.Log (Log.java:50) - Started selecting menu type
+INFO  | 2018-11-12 10:12:42 | [main] utils.Log (Log.java:50) - Started selecting document type
+INFO  | 2018-11-12 10:12:46 | [main] utils.Log (Log.java:50) - Selected document type successfully
+INFO  | 2018-11-12 10:12:46 | [main] utils.Log (Log.java:50) - Ended selecting document type
+INFO  | 2018-11-12 10:12:48 | [main] utils.Log (Log.java:50) - file renamed
+INFO  | 2018-11-12 10:12:48 | [main] utils.Log (Log.java:50) - File is renamed and moved to output filepath
+INFO  | 2018-11-12 10:12:48 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-12 10:12:48 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:12:48 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATIC-insidepassAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:12:48 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-12 10:12:48 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@17ae98d7
+ERROR | 2018-11-12 10:12:48 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@5a772895
+ERROR | 2018-11-12 10:12:48 | [main] utils.Log (Log.java:62) - null
+INFO  | 2018-11-12 10:13:09 | [main] utils.Log (Log.java:50) - Started enterAccountNo
+INFO  | 2018-11-12 10:13:10 | [main] utils.Log (Log.java:50) - Clicked enterAccountNo successfully.
+INFO  | 2018-11-12 10:13:10 | [main] utils.Log (Log.java:50) - Ended enterAccountNo
+INFO  | 2018-11-12 10:13:11 | [main] utils.Log (Log.java:50) - Started Additional search
+INFO  | 2018-11-12 10:13:13 | [main] utils.Log (Log.java:50) - Clicked Additional search successfully.
+INFO  | 2018-11-12 10:13:13 | [main] utils.Log (Log.java:50) - Ended Additional search
+INFO  | 2018-11-12 10:13:13 | [main] utils.Log (Log.java:50) - Started clickActions
+INFO  | 2018-11-12 10:13:14 | [main] utils.Log (Log.java:50) - Clicked clickActions successfully.
+INFO  | 2018-11-12 10:13:14 | [main] utils.Log (Log.java:50) - Ended clickActions
+INFO  | 2018-11-12 10:13:14 | [main] utils.Log (Log.java:50) - Started ViewTransactionHistory
+INFO  | 2018-11-12 10:13:15 | [main] utils.Log (Log.java:50) - Clicked ViewTransactionHistory successfully.
+INFO  | 2018-11-12 10:13:15 | [main] utils.Log (Log.java:50) - Ended ViewTransactionHistory
+INFO  | 2018-11-12 10:13:18 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:13:18 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:13:18 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:13:21 | [main] utils.Log (Log.java:50) - Fromdate clicked
+INFO  | 2018-11-12 10:13:22 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:13:23 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:13:23 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:13:25 | [main] utils.Log (Log.java:50) - Todate clicked
+INFO  | 2018-11-12 10:13:26 | [main] utils.Log (Log.java:50) - Started selecting credits and debits
+INFO  | 2018-11-12 10:13:26 | [main] utils.Log (Log.java:50) - selected credits and debits Successfully
+INFO  | 2018-11-12 10:13:26 | [main] utils.Log (Log.java:50) - Ended selecting credits and debits
+INFO  | 2018-11-12 10:13:27 | [main] utils.Log (Log.java:50) - Started clicking GetStatement 
+INFO  | 2018-11-12 10:13:27 | [main] utils.Log (Log.java:50) - Clicked GetStatement Successfully
+INFO  | 2018-11-12 10:13:27 | [main] utils.Log (Log.java:50) - Ended clicking GetStatement 
+INFO  | 2018-11-12 10:13:38 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-12 10:13:38 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:13:38 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATIC-insidepassAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:13:38 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-12 10:13:38 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@3ee39da0
+ERROR | 2018-11-12 10:13:38 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@1f2d2181
+INFO  | 2018-11-12 10:13:38 | [main] utils.Log (Log.java:50) - No transaction so screen captured successfully.
+INFO  | 2018-11-12 10:13:59 | [main] utils.Log (Log.java:50) - Started enterAccountNo
+INFO  | 2018-11-12 10:14:00 | [main] utils.Log (Log.java:50) - Clicked enterAccountNo successfully.
+INFO  | 2018-11-12 10:14:00 | [main] utils.Log (Log.java:50) - Ended enterAccountNo
+INFO  | 2018-11-12 10:14:01 | [main] utils.Log (Log.java:50) - Started Additional search
+INFO  | 2018-11-12 10:14:03 | [main] utils.Log (Log.java:50) - Clicked Additional search successfully.
+INFO  | 2018-11-12 10:14:03 | [main] utils.Log (Log.java:50) - Ended Additional search
+INFO  | 2018-11-12 10:14:03 | [main] utils.Log (Log.java:50) - Started clickActions
+INFO  | 2018-11-12 10:14:04 | [main] utils.Log (Log.java:50) - Clicked clickActions successfully.
+INFO  | 2018-11-12 10:14:04 | [main] utils.Log (Log.java:50) - Ended clickActions
+INFO  | 2018-11-12 10:14:04 | [main] utils.Log (Log.java:50) - Started ViewTransactionHistory
+INFO  | 2018-11-12 10:14:04 | [main] utils.Log (Log.java:50) - Clicked ViewTransactionHistory successfully.
+INFO  | 2018-11-12 10:14:04 | [main] utils.Log (Log.java:50) - Ended ViewTransactionHistory
+INFO  | 2018-11-12 10:14:08 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:14:08 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:14:08 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:14:11 | [main] utils.Log (Log.java:50) - Fromdate clicked
+INFO  | 2018-11-12 10:14:12 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:14:13 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:14:13 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:14:15 | [main] utils.Log (Log.java:50) - Todate clicked
+INFO  | 2018-11-12 10:14:16 | [main] utils.Log (Log.java:50) - Started selecting credits and debits
+INFO  | 2018-11-12 10:14:16 | [main] utils.Log (Log.java:50) - selected credits and debits Successfully
+INFO  | 2018-11-12 10:14:16 | [main] utils.Log (Log.java:50) - Ended selecting credits and debits
+INFO  | 2018-11-12 10:14:17 | [main] utils.Log (Log.java:50) - Started clicking GetStatement 
+INFO  | 2018-11-12 10:14:17 | [main] utils.Log (Log.java:50) - Clicked GetStatement Successfully
+INFO  | 2018-11-12 10:14:17 | [main] utils.Log (Log.java:50) - Ended clicking GetStatement 
+INFO  | 2018-11-12 10:14:28 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-12 10:14:28 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:14:28 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATIC-insidepassAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:14:28 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-12 10:14:28 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@7ee55e70
+ERROR | 2018-11-12 10:14:28 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@7668d560
+INFO  | 2018-11-12 10:14:28 | [main] utils.Log (Log.java:50) - No transaction so screen captured successfully.
+INFO  | 2018-11-12 10:14:49 | [main] utils.Log (Log.java:50) - Started enterAccountNo
+INFO  | 2018-11-12 10:14:50 | [main] utils.Log (Log.java:50) - Clicked enterAccountNo successfully.
+INFO  | 2018-11-12 10:14:50 | [main] utils.Log (Log.java:50) - Ended enterAccountNo
+INFO  | 2018-11-12 10:14:51 | [main] utils.Log (Log.java:50) - Started Additional search
+INFO  | 2018-11-12 10:14:53 | [main] utils.Log (Log.java:50) - Clicked Additional search successfully.
+INFO  | 2018-11-12 10:14:53 | [main] utils.Log (Log.java:50) - Ended Additional search
+INFO  | 2018-11-12 10:14:54 | [main] utils.Log (Log.java:50) - Started clickActions
+INFO  | 2018-11-12 10:14:54 | [main] utils.Log (Log.java:50) - Clicked clickActions successfully.
+INFO  | 2018-11-12 10:14:54 | [main] utils.Log (Log.java:50) - Ended clickActions
+INFO  | 2018-11-12 10:14:54 | [main] utils.Log (Log.java:50) - Started ViewTransactionHistory
+INFO  | 2018-11-12 10:14:55 | [main] utils.Log (Log.java:50) - Clicked ViewTransactionHistory successfully.
+INFO  | 2018-11-12 10:14:55 | [main] utils.Log (Log.java:50) - Ended ViewTransactionHistory
+INFO  | 2018-11-12 10:14:58 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:14:58 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:14:58 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:15:01 | [main] utils.Log (Log.java:50) - Fromdate clicked
+INFO  | 2018-11-12 10:15:02 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-12 10:15:03 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-12 10:15:03 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-12 10:15:05 | [main] utils.Log (Log.java:50) - Todate clicked
+INFO  | 2018-11-12 10:15:07 | [main] utils.Log (Log.java:50) - Started selecting credits and debits
+INFO  | 2018-11-12 10:15:07 | [main] utils.Log (Log.java:50) - selected credits and debits Successfully
+INFO  | 2018-11-12 10:15:07 | [main] utils.Log (Log.java:50) - Ended selecting credits and debits
+INFO  | 2018-11-12 10:15:07 | [main] utils.Log (Log.java:50) - Started clicking GetStatement 
+INFO  | 2018-11-12 10:15:07 | [main] utils.Log (Log.java:50) - Clicked GetStatement Successfully
+INFO  | 2018-11-12 10:15:07 | [main] utils.Log (Log.java:50) - Ended clicking GetStatement 
+INFO  | 2018-11-12 10:15:25 | [main] utils.Log (Log.java:50) - Started selecting menu type
+INFO  | 2018-11-12 10:15:34 | [main] utils.Log (Log.java:50) - Started selecting document type
+INFO  | 2018-11-12 10:15:38 | [main] utils.Log (Log.java:50) - Selected document type successfully
+INFO  | 2018-11-12 10:15:38 | [main] utils.Log (Log.java:50) - Ended selecting document type
+INFO  | 2018-11-12 10:15:40 | [main] utils.Log (Log.java:50) - file renamed
+INFO  | 2018-11-12 10:15:40 | [main] utils.Log (Log.java:50) - File is renamed and moved to output filepath
+INFO  | 2018-11-12 10:15:40 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-12 10:15:40 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:15:40 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATIC-insidepassAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:15:40 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-12 10:15:40 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@6c44052e
+ERROR | 2018-11-12 10:15:40 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@530a8454
+ERROR | 2018-11-12 10:15:40 | [main] utils.Log (Log.java:62) - null
+INFO  | 2018-11-12 10:16:01 | [main] utils.Log (Log.java:50) - Started enterAccountNo
+INFO  | 2018-11-12 10:16:02 | [main] utils.Log (Log.java:50) - Clicked enterAccountNo successfully.
+INFO  | 2018-11-12 10:16:02 | [main] utils.Log (Log.java:50) - Ended enterAccountNo
+INFO  | 2018-11-12 10:16:03 | [main] utils.Log (Log.java:50) - Started Additional search
+INFO  | 2018-11-12 10:16:05 | [main] utils.Log (Log.java:50) - Clicked Additional search successfully.
+INFO  | 2018-11-12 10:16:05 | [main] utils.Log (Log.java:50) - Ended Additional search
+INFO  | 2018-11-12 10:16:05 | [main] utils.Log (Log.java:50) - Started clickActions
+ERROR | 2018-11-12 10:16:35 | [main] utils.Log (Log.java:62) - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='OprActions[0]']/span[1]"}
+  (Session info: chrome=70.0.3538.77)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:26.402Z'
+System info: host: 'SANDEEP', ip: '192.168.6.169', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73), userDataDir=C:\Users\sandeepb\AppData\Local\Temp\scoped_dir12844_5979}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=70.0.3538.77, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9979f79648d5c4cb35d4a7f0be07be81
+*** Element info: {Using=xpath, value=//*[@id='OprActions[0]']/span[1]}
+INFO  | 2018-11-12 10:16:35 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-12 10:16:35 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-12 10:16:35 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-12 10:16:35 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@54f5f647
+ERROR | 2018-11-12 10:16:36 | [main] utils.Log (Log.java:62) - FAILED
+INFO  | 2018-11-12 10:16:36 | [main] utils.Log (Log.java:50) - Inside iteration update procedure
+ERROR | 2018-11-12 10:16:36 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@4a67318f
+INFO  | 2018-11-12 10:16:36 | [main] utils.Log (Log.java:50) - Inside iteration update procedure
+ERROR | 2018-11-12 10:16:36 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@76b0ae1b
+INFO  | 2018-11-12 10:16:36 | [main] utils.Log (Log.java:50) - Finally all the browsers are closed
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - Bank name from config fileICICI BANK LTD
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - Bank Name from config file ICICI BANK LTD
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - Manual bank name Retrieved
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - INSIDE AUTOMATIC PROCESS
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - Started Login details retrieval 
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - Before connection amcQAT - Union KBC Fund
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - After connection AmcCodeSelectedTUKQ
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - After connection AmcCodeITZP
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - After connection AmcNameZ - Password Static Test
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - After connection AmcSelectedQAT - Union KBC Fund
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - After connection amcQAT - Union KBC Fund
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - Before Alter SchemaSelectedITUKQAT
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - After Alter SchemaSelectedITUKQAT
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - After connection AmcCodeSelectedTUKQ
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - After connection AmcCodeITZP
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - After connection AmcNameZ - Password Static Test
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - After connection AmcSelectedQAT - Union KBC Fund
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - Login details retrieved successfully
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - Ended Login details retrieved
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@487db668
+INFO  | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:50) - Login credentials520
+ERROR | 2018-11-13 11:35:23 | [main] utils.Log (Log.java:62) - The Output path directory is available in the system
+INFO  | 2018-11-13 11:35:28 | [main] utils.Log (Log.java:50) - The browser:CHROME launched successfully
+INFO  | 2018-11-13 11:35:28 | [main] utils.Log (Log.java:50) - Started entering Corporate ID
+INFO  | 2018-11-13 11:35:29 | [main] utils.Log (Log.java:50) - Corporate ID entered Successfully
+INFO  | 2018-11-13 11:35:29 | [main] utils.Log (Log.java:50) - Ended entering Corporate ID
+INFO  | 2018-11-13 11:35:29 | [main] utils.Log (Log.java:50) - Started entering User ID
+INFO  | 2018-11-13 11:35:30 | [main] utils.Log (Log.java:50) - UserName entered Successfully
+INFO  | 2018-11-13 11:35:30 | [main] utils.Log (Log.java:50) - Ended entering User ID
+INFO  | 2018-11-13 11:35:30 | [main] utils.Log (Log.java:50) - Started entering Password
+INFO  | 2018-11-13 11:35:30 | [main] utils.Log (Log.java:50) - Password entered Successfully
+INFO  | 2018-11-13 11:35:30 | [main] utils.Log (Log.java:50) - Ended entering Password
+INFO  | 2018-11-13 11:35:30 | [main] utils.Log (Log.java:50) - Started click login
+INFO  | 2018-11-13 11:35:41 | [main] utils.Log (Log.java:50) - Logged in Successfully
+INFO  | 2018-11-13 11:35:41 | [main] utils.Log (Log.java:50) - Ended click login
+INFO  | 2018-11-13 11:35:42 | [main] utils.Log (Log.java:50) - Started clickAccounts
+INFO  | 2018-11-13 11:35:42 | [main] utils.Log (Log.java:50) - Clicked clickAccounts successfully.
+INFO  | 2018-11-13 11:35:42 | [main] utils.Log (Log.java:50) - Ended clickAccounts
+INFO  | 2018-11-13 11:35:42 | [main] utils.Log (Log.java:50) - Started clickOperativeAccounts
+INFO  | 2018-11-13 11:35:47 | [main] utils.Log (Log.java:50) - Clicked clickOperativeAccounts successfully.
+INFO  | 2018-11-13 11:35:47 | [main] utils.Log (Log.java:50) - Ended clickOperativeAccounts
+INFO  | 2018-11-13 11:35:48 | [main] utils.Log (Log.java:50) - Started clickSearch
+INFO  | 2018-11-13 11:35:48 | [main] utils.Log (Log.java:50) - Clicked clickSearch successfully.
+INFO  | 2018-11-13 11:35:48 | [main] utils.Log (Log.java:50) - Ended clickSearch
+INFO  | 2018-11-13 11:35:51 | [main] utils.Log (Log.java:50) - Started enterAccountNo
+INFO  | 2018-11-13 11:35:52 | [main] utils.Log (Log.java:50) - Clicked enterAccountNo successfully.
+INFO  | 2018-11-13 11:35:52 | [main] utils.Log (Log.java:50) - Ended enterAccountNo
+INFO  | 2018-11-13 11:35:53 | [main] utils.Log (Log.java:50) - Started Additional search
+INFO  | 2018-11-13 11:35:56 | [main] utils.Log (Log.java:50) - Clicked Additional search successfully.
+INFO  | 2018-11-13 11:35:56 | [main] utils.Log (Log.java:50) - Ended Additional search
+INFO  | 2018-11-13 11:35:56 | [main] utils.Log (Log.java:50) - Started clickActions
+INFO  | 2018-11-13 11:35:56 | [main] utils.Log (Log.java:50) - Clicked clickActions successfully.
+INFO  | 2018-11-13 11:35:56 | [main] utils.Log (Log.java:50) - Ended clickActions
+INFO  | 2018-11-13 11:35:57 | [main] utils.Log (Log.java:50) - Started ViewTransactionHistory
+INFO  | 2018-11-13 11:35:57 | [main] utils.Log (Log.java:50) - Clicked ViewTransactionHistory successfully.
+INFO  | 2018-11-13 11:35:57 | [main] utils.Log (Log.java:50) - Ended ViewTransactionHistory
+INFO  | 2018-11-13 11:36:00 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-13 11:36:01 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-13 11:36:01 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-13 11:36:03 | [main] utils.Log (Log.java:50) - Fromdate clicked
+INFO  | 2018-11-13 11:36:05 | [main] utils.Log (Log.java:50) - Started clicking calender icon
+INFO  | 2018-11-13 11:36:05 | [main] utils.Log (Log.java:50) - clicked calender icon
+INFO  | 2018-11-13 11:36:05 | [main] utils.Log (Log.java:50) - Ended clicking calender icon
+INFO  | 2018-11-13 11:36:08 | [main] utils.Log (Log.java:50) - Todate clicked
+INFO  | 2018-11-13 11:36:09 | [main] utils.Log (Log.java:50) - Started selecting credits and debits
+INFO  | 2018-11-13 11:36:09 | [main] utils.Log (Log.java:50) - selected credits and debits Successfully
+INFO  | 2018-11-13 11:36:09 | [main] utils.Log (Log.java:50) - Ended selecting credits and debits
+INFO  | 2018-11-13 11:36:10 | [main] utils.Log (Log.java:50) - Started clicking GetStatement 
+INFO  | 2018-11-13 11:36:10 | [main] utils.Log (Log.java:50) - Clicked GetStatement Successfully
+INFO  | 2018-11-13 11:36:10 | [main] utils.Log (Log.java:50) - Ended clicking GetStatement 
+INFO  | 2018-11-13 11:36:21 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-13 11:36:21 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-13 11:36:21 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATIC-insidepassAUTOMATIC - LOCAL
+INFO  | 2018-11-13 11:36:21 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-13 11:36:21 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@57a4d5ee
+INFO  | 2018-11-13 11:36:44 | [main] utils.Log (Log.java:50) - Bank name from config fileICICI BANK LTD
+INFO  | 2018-11-13 11:36:44 | [main] utils.Log (Log.java:50) - Bank Name from config file ICICI BANK LTD
+INFO  | 2018-11-13 11:36:44 | [main] utils.Log (Log.java:50) - Manual bank name Retrieved
+INFO  | 2018-11-13 11:36:44 | [main] utils.Log (Log.java:50) - INSIDE AUTOMATIC PROCESS
+INFO  | 2018-11-13 11:36:44 | [main] utils.Log (Log.java:50) - Started Login details retrieval 
+INFO  | 2018-11-13 11:36:44 | [main] utils.Log (Log.java:50) - Before connection amcQAT - Union KBC Fund
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - After connection AmcCodeSelectedTUKQ
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - After connection AmcCodeITZP
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - After connection AmcNameZ - Password Static Test
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - After connection AmcSelectedQAT - Union KBC Fund
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - After connection amcQAT - Union KBC Fund
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - Before Alter SchemaSelectedITUKQAT
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - After Alter SchemaSelectedITUKQAT
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - After connection AmcCodeSelectedTUKQ
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - After connection AmcCodeITZP
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - After connection AmcNameZ - Password Static Test
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - After connection AmcSelectedQAT - Union KBC Fund
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - Login details retrieved successfully
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - Ended Login details retrieved
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@487db668
+INFO  | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:50) - Login credentials520
+ERROR | 2018-11-13 11:36:45 | [main] utils.Log (Log.java:62) - The Output path directory is available in the system
+INFO  | 2018-11-13 11:36:50 | [main] utils.Log (Log.java:50) - The browser:CHROME launched successfully
+INFO  | 2018-11-13 11:36:50 | [main] utils.Log (Log.java:50) - Started entering Corporate ID
+INFO  | 2018-11-13 11:36:50 | [main] utils.Log (Log.java:50) - Corporate ID entered Successfully
+INFO  | 2018-11-13 11:36:50 | [main] utils.Log (Log.java:50) - Ended entering Corporate ID
+INFO  | 2018-11-13 11:36:50 | [main] utils.Log (Log.java:50) - Started entering User ID
+INFO  | 2018-11-13 11:36:51 | [main] utils.Log (Log.java:50) - UserName entered Successfully
+INFO  | 2018-11-13 11:36:51 | [main] utils.Log (Log.java:50) - Ended entering User ID
+INFO  | 2018-11-13 11:36:51 | [main] utils.Log (Log.java:50) - Started entering Password
+INFO  | 2018-11-13 11:36:51 | [main] utils.Log (Log.java:50) - Password entered Successfully
+INFO  | 2018-11-13 11:36:51 | [main] utils.Log (Log.java:50) - Ended entering Password
+INFO  | 2018-11-13 11:36:52 | [main] utils.Log (Log.java:50) - Started click login
+INFO  | 2018-11-13 11:36:52 | [main] utils.Log (Log.java:50) - Logged in Successfully
+INFO  | 2018-11-13 11:36:52 | [main] utils.Log (Log.java:50) - Ended click login
+INFO  | 2018-11-13 11:36:55 | [main] utils.Log (Log.java:50) - Inside iteration update procedure
+ERROR | 2018-11-13 11:36:55 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@7692cd34
+ERROR | 2018-11-13 11:36:58 | [main] utils.Log (Log.java:62) - The Output path directory is available in the system
+INFO  | 2018-11-13 11:37:25 | [main] utils.Log (Log.java:50) - Bank name from config fileICICI BANK LTD
+INFO  | 2018-11-13 11:37:25 | [main] utils.Log (Log.java:50) - Bank Name from config file ICICI BANK LTD
+INFO  | 2018-11-13 11:37:25 | [main] utils.Log (Log.java:50) - Manual bank name Retrieved
+INFO  | 2018-11-13 11:37:25 | [main] utils.Log (Log.java:50) - INSIDE AUTOMATIC PROCESS
+INFO  | 2018-11-13 11:37:25 | [main] utils.Log (Log.java:50) - Started Login details retrieval 
+INFO  | 2018-11-13 11:37:25 | [main] utils.Log (Log.java:50) - Before connection amcQAT - Union KBC Fund
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - After connection AmcCodeSelectedTUKQ
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - After connection AmcCodeITZP
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - After connection AmcNameZ - Password Static Test
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - After connection AmcSelectedQAT - Union KBC Fund
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - After connection amcQAT - Union KBC Fund
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - Before Alter SchemaSelectedITUKQAT
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - After Alter SchemaSelectedITUKQAT
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - After connection AmcCodeSelectedTUKQ
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - After connection AmcCodeITZP
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - After connection AmcNameZ - Password Static Test
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - After connection AmcSelectedQAT - Union KBC Fund
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - Login details retrieved successfully
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - Ended Login details retrieved
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - ScheduletypeType
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - schedlerType-insideAUTOMATICAUTOMATIC - LOCAL
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - Inside insert procedure logAUTOMATIC - LOCAL
+ERROR | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:62) - After Connecting to db: oracle.jdbc.driver.T4CConnection@49601f82
+INFO  | 2018-11-13 11:37:26 | [main] utils.Log (Log.java:50) - Login credentials520
+ERROR | 2018-11-13 11:38:18 | [main] utils.Log (Log.java:62) - The Output path directory is available in the system
+INFO  | 2018-11-13 11:38:24 | [main] utils.Log (Log.java:50) - The browser:CHROME launched successfully
+INFO  | 2018-11-13 11:38:24 | [main] utils.Log (Log.java:50) - Started entering Corporate ID
+INFO  | 2018-11-13 11:38:25 | [main] utils.Log (Log.java:50) - Corporate ID entered Successfully
+INFO  | 2018-11-13 11:38:25 | [main] utils.Log (Log.java:50) - Ended entering Corporate ID
+INFO  | 2018-11-13 11:38:25 | [main] utils.Log (Log.java:50) - Started entering User ID
+INFO  | 2018-11-13 11:38:26 | [main] utils.Log (Log.java:50) - UserName entered Successfully
+INFO  | 2018-11-13 11:38:26 | [main] utils.Log (Log.java:50) - Ended entering User ID
+INFO  | 2018-11-13 11:38:26 | [main] utils.Log (Log.java:50) - Started entering Password
+INFO  | 2018-11-13 11:38:26 | [main] utils.Log (Log.java:50) - Password entered Successfully
+INFO  | 2018-11-13 11:38:26 | [main] utils.Log (Log.java:50) - Ended entering Password
+INFO  | 2018-11-13 11:38:26 | [main] utils.Log (Log.java:50) - Started click login
+INFO  | 2018-11-13 11:38:33 | [main] utils.Log (Log.java:50) - Logged in Successfully
+INFO  | 2018-11-13 11:38:33 | [main] utils.Log (Log.java:50) - Ended click login
+INFO  | 2018-11-13 11:38:34 | [main] utils.Log (Log.java:50) - Started clickAccounts
+INFO  | 2018-11-13 11:38:34 | [main] utils.Log (Log.java:50) - Clicked clickAccounts successfully.
+INFO  | 2018-11-13 11:38:34 | [main] utils.Log (Log.java:50) - Ended clickAccounts
+INFO  | 2018-11-13 11:38:34 | [main] utils.Log (Log.java:50) - Started clickOperativeAccounts

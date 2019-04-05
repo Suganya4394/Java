@@ -1,0 +1,1 @@
+java -jar ICICIBank.jar "" "HDFC Mutual Fund - UAT1"
